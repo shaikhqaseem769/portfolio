@@ -16,7 +16,7 @@ Key features:
 
 ## [Live Preview](https://shaikh.com)
 
-Check out the live version of the template deployed **[here on GitHub Pages](https://shaikh.com)**.
+Check out the live version of the template deployed **[here on GitHub Pages](https://github.com/shaikhqaseem769)**.
 
 ### 1. Base layout
 
@@ -41,7 +41,7 @@ On mobile, the layout groups the portfolio sections into categories and transfor
 1. Clone the repo:
 
 ```
-git clone https://github.com/shaikhqaseem769/react-portfolio-template
+git clone https://github.com/shaikhqaseem769/portfolio.git
 ```
 
 2. Go to the root directory of the project and install all dependencies with npm:
@@ -270,7 +270,7 @@ This command triggers a series of processes that package your code, assets, and 
 
 ## About
 
-This template was created by and is maintained by **[Mohammad Qaseem](https://shaikh.com/)**.
+This template was created by and is maintained by **[Mohammad Qaseem](https://github.com/shaikhqaseem769)**.
 
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 
