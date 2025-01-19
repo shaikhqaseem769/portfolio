@@ -1,0 +1,157 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-aws",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "dates": {
+                        "start": "05/05/2021",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.aws.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Node.js",
+                            "text": "Node.js Certified Udemy"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-life-ring",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "12/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.linuxfoundation.org/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript",
+                            "text": "Certified Java Developer Udemy" 
+                        }
+                    }
+                },
+                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-java",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "05/05/2022",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.oracle.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**PHP**",
+                            "text": "Certified PHP Developer (Ducat)"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Awards" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "09/01/2019",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Best Final Year Project** – Backend Optimization",
+                            "info": "MIT",
+                            "text": "Recognized for innovative work on optimizing backend systems for cloud environments, achieving significant performance improvements."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "05/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://github.com/torvalds/linux" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Top Contributor** – Open Source Backend Project",
+                            "info": "GitHub",
+                            "text": "Awarded for contributing to an open-source backend framework that improved scalability and reduced latency."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "11/01/2021",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**1st Place** – Global API Design Challenge",
+                            "info": "API Developer Conference",
+                            "text": "Secured 1st place for developing a robust API with advanced features like real-time data processing and seamless integration."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "06/01/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://google.com" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Best Backend Architecture** – Tech Innovator Awards",
+                            "info": "Tech Innovator Magazine",
+                            "text": "Recognized for designing an efficient and scalable backend architecture that improved system performance and reliability."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
